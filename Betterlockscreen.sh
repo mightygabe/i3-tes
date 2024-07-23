@@ -18,7 +18,8 @@ rm -rf i3lock-color
 
 cd ~
 
-sudo apt install -y imagemagick bc 
+#sudo apt install -y imagemagick 
+sudo apt install -y bc
 # Optional packages
 #sudo apt install -y dunst feh
 
